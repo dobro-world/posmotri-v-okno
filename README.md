@@ -1,1 +1,0 @@
-https://github.com/dobro-world/posmotri-v-okno
