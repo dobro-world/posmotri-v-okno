@@ -1,1 +1,1 @@
-https://github.com/dobro-world/posmotri-v-okno
+https://github.com/dobro-world/posmotri-v-okno-fd
